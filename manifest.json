@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://liladude.github.io/melons/manifest.json",
+  "id": "https://liladude.github.io/melons/manifest",
   "type": "Manifest",
   "label": { "en": ["Studies 13"]},
   "metadata": [
