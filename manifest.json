@@ -40,7 +40,7 @@
   "behavior": [ "paged" ],
   "navDate": "2020-08-25T00:00:00Z",
 
-  "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "rights": "https://creativecommons.org/licenses/by/4.0/",
   "requiredStatement": {
     "label": { "en": [ "Attribution" ] },
     "value": { "en": [ "Edition Open Access" ] }
