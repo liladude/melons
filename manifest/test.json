@@ -1,0 +1,386 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition",
+  "type": "Manifest",
+  "label": {
+    "fr": [
+      "Pirro Ligorio"
+    ]
+  },
+  "version": "3.0",
+  "summary": {
+    "fr": [
+      "Collection of folios from Pirro Ligorio's 'Libro delle antiquità'"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Date de création"
+        ]
+      },
+      "value": {
+        "none": [
+          "2025-05-22T07:40:15.867Z"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Auteur"
+        ]
+      },
+      "value": {
+        "none": [
+          "Elisa Bastianello"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "height": 6914,
+      "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv21187938-56dc-4e7f-afe1-8a21407528b6",
+      "items": [
+        {
+          "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv21187938-56dc-4e7f-afe1-8a21407528b6/annotation-page",
+          "items": [
+            {
+              "body": {
+                "format": "image/jpeg",
+                "height": 6914,
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/f15/full/full/0/native.jpg",
+                "service": [
+                  {
+                    "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/f15",
+                    "profile": "http://iiif.io/api/image/2/level2",
+                    "type": "ImageService2"
+                  }
+                ],
+                "type": "Image",
+                "width": 4468
+              },
+              "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/annotation/prv21187938-56dc-4e7f-afe1-8a21407528b6-image",
+              "motivation": "painting",
+              "target": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv21187938-56dc-4e7f-afe1-8a21407528b6",
+              "type": "Annotation"
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "label": {
+        "none": [
+          "1"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Titre"
+            ]
+          },
+          "value": {
+            "fr": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "fr": [
+              "Créateur"
+            ]
+          },
+          "value": {
+            "fr": [
+              "Pirro Ligorio"
+            ]
+          }
+        }
+      ],
+      "partOf": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/manifest.json",
+          "label": {
+            "none": [
+              "Libro delle antiquità di Pyrrho Ligorio napoletano, nel quale paradossamente confuta la comune openione sopra varii et diversi luoghi della citta di Roma et fuor d'essa."
+            ]
+          },
+          "type": "Manifest"
+        }
+      ],
+      "requiredStatement": {
+        "label": {
+          "fr": [
+            "Crédits du fichier numérique"
+          ]
+        },
+        "value": {
+          "fr": [
+            "Source: Bibliothèque nationale de France"
+          ]
+        }
+      },
+      "summary": {
+        "fr": [
+          "Folio 1 of Pirro Ligorio's manuscript"
+        ]
+      },
+      "thumbnail": [
+        {
+          "format": "image/jpeg",
+          "height": 300,
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/f15/full/320,412/0/native.jpg",
+          "type": "Image",
+          "width": 200
+        }
+      ],
+      "type": "Canvas",
+      "width": 4468
+    },
+    {
+      "height": 6914,
+      "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv63d3b1ac-cb76-47d3-a4e0-ba0cec2e08f4",
+      "items": [
+        {
+          "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv63d3b1ac-cb76-47d3-a4e0-ba0cec2e08f4/annotation-page",
+          "items": [
+            {
+              "body": {
+                "format": "image/jpeg",
+                "height": 6914,
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/f74/full/full/0/native.jpg",
+                "service": [
+                  {
+                    "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/f74",
+                    "profile": "http://iiif.io/api/image/2/level2",
+                    "type": "ImageService2"
+                  }
+                ],
+                "type": "Image",
+                "width": 4414
+              },
+              "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/annotation/prv63d3b1ac-cb76-47d3-a4e0-ba0cec2e08f4-image",
+              "motivation": "painting",
+              "target": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv63d3b1ac-cb76-47d3-a4e0-ba0cec2e08f4",
+              "type": "Annotation"
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "label": {
+        "none": [
+          "60"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Titre"
+            ]
+          },
+          "value": {
+            "fr": [
+              "60"
+            ]
+          }
+        }
+      ],
+      "partOf": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/manifest.json",
+          "label": {
+            "none": [
+              "Libro delle antiquità di Pyrrho Ligorio napoletano, nel quale paradossamente confuta la comune openione sopra varii et diversi luoghi della citta di Roma et fuor d'essa."
+            ]
+          },
+          "type": "Manifest"
+        }
+      ],
+      "requiredStatement": {
+        "label": {
+          "fr": [
+            "Crédits du fichier numérique"
+          ]
+        },
+        "value": {
+          "fr": [
+            "Source: Bibliothèque nationale de France"
+          ]
+        }
+      },
+      "summary": {
+        "fr": [
+          "Folio 60 of Pirro Ligorio's manuscript"
+        ]
+      },
+      "thumbnail": [
+        {
+          "format": "image/jpeg",
+          "height": 300,
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/f74/full/320,412/0/native.jpg",
+          "type": "Image",
+          "width": 200
+        }
+      ],
+      "type": "Canvas",
+      "width": 4414
+    },
+    {
+      "height": 26700,
+      "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv22aa0d6e-9e2f-4412-9185-d41e4508cdb2",
+      "items": [
+        {
+          "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv22aa0d6e-9e2f-4412-9185-d41e4508cdb2/annotation-page",
+          "items": [
+            {
+              "body": {
+                "format": "image/jpeg",
+                "height": 26700,
+                "id": "https://dlib2.biblhertz.it/iiif/3/dg1403481c@0001.jp2/full/max/0/default.jpg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/dg1403481c@0001.jp2",
+                    "profile": "http://iiif.io/api/image/3/level2",
+                    "type": "ImageService3"
+                  }
+                ],
+                "type": "Image",
+                "width": 32325
+              },
+              "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/annotation/prv22aa0d6e-9e2f-4412-9185-d41e4508cdb2-image",
+              "motivation": "painting",
+              "target": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv22aa0d6e-9e2f-4412-9185-d41e4508cdb2",
+              "type": "Annotation"
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "label": {
+        "none": [
+          "Map"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "fr": [
+              "Titre"
+            ]
+          },
+          "value": {
+            "fr": [
+              "Nuova Pianta Di Roma"
+            ]
+          }
+        }
+      ],
+      "partOf": [
+        {
+          "id": "https://dlib.biblhertz.it/iiif/dg1403481c/manifest.json",
+          "label": {
+            "none": [
+              "Nuova Pianta Di Roma"
+            ]
+          },
+          "type": "Manifest"
+        }
+      ],
+      "requiredStatement": {
+        "label": {
+          "fr": [
+            "Crédits du fichier numérique"
+          ]
+        },
+        "value": {
+          "fr": [
+            "Source: Bibliotheca Hertziana"
+          ]
+        }
+      },
+      "summary": {
+        "fr": [
+          "Map of Rome by Pirro Ligorio"
+        ]
+      },
+      "thumbnail": [
+        {
+          "format": "image/jpeg",
+          "height": 300,
+          "id": "https://dlib2.biblhertz.it/iiif/3/dg1403481c@0001.jp2/full/max/0/default.jpg",
+          "type": "Image",
+          "width": 200
+        }
+      ],
+      "type": "Canvas",
+      "width": 32325
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/range/r0",
+      "items": [
+        {
+          "annotations": [
+            {
+              "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/rprv8da31386-5ea0-430e-bbc0-137f723e149f_annotations",
+              "type": "AnnotationPage"
+            }
+          ],
+          "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/rprv8da31386-5ea0-430e-bbc0-137f723e149f",
+          "items": [
+            {
+              "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv63d3b1ac-cb76-47d3-a4e0-ba0cec2e08f4",
+              "label": {
+                "fr": [
+                  "Folio 60"
+                ]
+              },
+              "type": "Canvas"
+            }
+          ],
+          "label": {
+            "none": [
+              "Paris"
+            ]
+          },
+          "type": "Range"
+        },
+        {
+          "annotations": [
+            {
+              "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/rprv5b2ad1a2-fb76-4fa6-a417-7f0e29490b88_annotations",
+              "type": "AnnotationPage"
+            }
+          ],
+          "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/rprv5b2ad1a2-fb76-4fa6-a417-7f0e29490b88",
+          "items": [
+            {
+              "id": "https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition/canvas/prv22aa0d6e-9e2f-4412-9185-d41e4508cdb2",
+              "label": {
+                "fr": [
+                  "Map of Rome"
+                ]
+              },
+              "type": "Canvas"
+            }
+          ],
+          "label": {
+            "none": [
+              "Map"
+            ]
+          },
+          "type": "Range"
+        }
+      ],
+      "type": "Range"
+    }
+  ]
+}
